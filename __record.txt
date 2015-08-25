@@ -1,0 +1,13 @@
+50: Prime, Cummulative Sum: 20150513
+53: Combinatoric Selection: Dynamic Programming: 20150513
+57: Square root convergents: Adhoc, Recursive: 20150513
+58: Spiral Primes: Adhoc, Prime: 20150513
+63: Powerful Digits Count: Adhoc: 20150513
+55: Lychrel Number: Adhoc: 20150514
+67: Maximum Path Sum II: Greedy: 20150514
+79: Passcode derivation: Paper and Pencile: 20150514
+92: Square Digit Chain: Adhoc: 20150514
+97: Large non-Mersenne prime: Adhoc, BigInt: 20150514
+
+Khoi Hoang
+Ho Chi Minh City University of Science
